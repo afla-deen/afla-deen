@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Afla Deen 👋
 
-<!--
-**afla-deen/afla-deen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Com (Hons) in Business Technology — University of Kelaniya  
+💼 Audit Associate @ BDO Sri Lanka & Maldives  
+📊 CASL (Corporate Level) | AAT | Agile PM | CTIGA  
+🌍 Colombo, Sri Lanka  
 
-Here are some ideas to get you started:
+## 🔧 Currently Learning
+- Python for Finance & Data Analytics  
+- SQL for Audit Data Analytics  
+- Web Development (HTML, CSS, JavaScript)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+Projects at the intersection of Commerce and Technology —  
+financial tools, dashboards, and automation scripts.
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afla--deen-blue)](https://www.linkedin.com/in/afla-deen-3a12f20l02a)
